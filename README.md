@@ -1,4 +1,4 @@
-# Term Project - Audio Recorder and Player
+# Audio Recorder and Player
 In this project we designed an audio recorder and player by using TM4C123 Microcontroller unit and peripherals such as 
 Microphone, Potentiometer, Digital to Analog Converter, Audio Amplifier and Speaker modules.
 
